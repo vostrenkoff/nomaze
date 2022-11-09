@@ -1,0 +1,4 @@
+repository "nomaze@iSizz@cloud"
+  path "/"
+    br "/main"
+    co "/main"
